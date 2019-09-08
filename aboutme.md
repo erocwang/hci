@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-<!--- subtitle: Why you'd want to go on a date with me -->
+subtitle: Hi this is Eric!
 ---
 
-Hi this is Eric Wang!
