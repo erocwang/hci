@@ -5,7 +5,7 @@ subtitle: An example of good design at Williams
 tags: [design, good, user]
 ---
 
-Many college libraries use a similar shelf system like this one in Sawyer. 
+Many college libraries use a similar shelf system like this one in Sawyer: 
 
 ![Shelf View 1](/img/gd2.jpeg)
 
@@ -15,9 +15,9 @@ This lets them pack more shelves into smaller spaces.
 
 ![Shelf View 2](/img/gd1.jpeg)
 
-The shelf device looks like a "steering-wheel" of sorts and its intuitive to assume that this is the control for moving the shelves. 
+The shelf device looks like a "steering-wheel" and it's intuitive to assume that this is the control for moving the shelves. 
 
-It's also in good design that the library has placed labels saying "use pin to lock shelves" above the tool. 
+It's also good design that the library has placed labels saying "use pin to lock shelves" above the tool. 
 
 While not pretty, these labels confirms to the user that the shelf can be moved and also introduces the user to the lock that might not have been noticed without the label. 
 
@@ -27,6 +27,4 @@ By pulling the lock out, the green portion of the lock is revealed.
 
 And like a green light, it signals the user that they can proceed and start moving the shelf. 
 
-This shelf is good design in my opinion. 
-
-It optimizes space and has enough instruction and intuitive controls that a student or librarian can easily understand and use it. 
+This shelf optimizes space and has enough instruction and intuitive controls that a student or librarian can easily understand and use it without thinking too much.
