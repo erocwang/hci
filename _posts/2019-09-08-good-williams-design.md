@@ -9,18 +9,24 @@ Many college libraries use a similar shelf system like this one in Sawyer.
 
 ![Shelf View 1](/img/gd2.jpeg)
 
-Shelves can be moved forward and backward along a straight track. 
+These shelves can be moved forward and backward along a straight track. 
 
-This lets them pack more shelves into smaller spaces. And more shelves of course = more books. 
+This lets them pack more shelves into smaller spaces. 
 
 ![Shelf View 2](/img/gd1.jpeg)
 
-The rotating device looks like it can be spun and its intuitive to assume that by rotating them, a user can move the shelf. 
+The shelf device looks like a "steering-wheel" of sorts and its intuitive to assume that this is the control for moving the shelves. 
 
-It's also in good taste that the library has put the "use pin to lock shelves" label above the tool. 
+It's also in good design that the library has placed labels saying "use pin to lock shelves" above the tool. 
 
-This tells the user that the shelf can be moved and also introduces the user to the lock that might not have been noticed without the label. 
+While not pretty, these labels confirms to the user that the shelf can be moved and also introduces the user to the lock that might not have been noticed without the label. 
 
-Because there is only the device on the side of the shelf, the user would likely look for the pin on the wheel itself and if they do it is not hard to find it. 
+Although the lock is not labeled, because of the note, the user is inclined to look for the lock (first place to look would be on the wheel, the side of the shelf is bare otherwise) which is on the wheel device. 
 
-By pulling the lock out, the green portion of the lock is revealed, further good design showing that the user can now move the shelf. 
+By pulling the lock out, the green portion of the lock is revealed.
+
+And like a green light, it signals the user that they can proceed and start moving the shelf. 
+
+This shelf is good design in my opinion. 
+
+It optimizes space and has enough instruction and intuitive controls that a student or librarian can easily understand and use it. 
