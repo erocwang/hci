@@ -13,7 +13,7 @@ I'm a bit late, but I ask around and I'm told to go down the hall, which had 3 g
 
 ![Door 1](/img/bd1.jpeg)
 
-I see the first door and it's slightyly ambiguous as to whether it's a push or a pull.
+I see the first door and it's slightly ambiguous as to whether it's a push or a pull.
 
 I guess and check. It's a push.
 
