@@ -5,8 +5,6 @@ subtitle:
 tags: [project, proposal]
 ---
 
-![https://ipm.missouri.edu/MEG/2016/8/Beware_of_Toxic_Wild_Berries/](/img/toxicBerries.jpg)
-
 <img src="/img/toxicBerries.jpg" alt="https://ipm.missouri.edu/MEG/2016/8/Beware_of_Toxic_Wild_Berries/" width="968" height="504">
 
 # **Motivation**  
