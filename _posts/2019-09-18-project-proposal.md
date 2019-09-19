@@ -5,7 +5,7 @@ subtitle:
 tags: [project, proposal]
 ---
 
-![https://ipm.missouri.edu/MEG/2016/8/Beware_of_Toxic_Wild_Berries/](/img/toxicBerries.jpg =968×504)
+![https://ipm.missouri.edu/MEG/2016/8/Beware_of_Toxic_Wild_Berries/](./img/toxicBerries.jpg =968×504)
 
 # **Motivation**  
 There are so many fruits and berries you find while hiking, and even when you're just going for a short walk. Many of them _look_ edible but how do you know that they are not deadly fruits under a delicious disguise? And even if they were edible, would they even taste good? Perhaps you are a boy scout, a park ranger, or just an avid fruit lover, but even then you wouldn't know about _all_ of them. 
