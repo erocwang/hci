@@ -2,7 +2,7 @@
 layout: post
 title: Good Design 
 subtitle: An example of good design at Williams
-tags: [design, good, user]
+tags: [good, design]
 ---
 
 Many college libraries use a similar shelf system like this one in Sawyer: 
