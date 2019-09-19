@@ -2,7 +2,7 @@
 layout: post
 title: Bad Design 
 subtitle: An example of bad design at Williams
-tags: [design, bad, user]
+tags: [bad, design]
 ---
 
 I remember my first few days at Williams when I felt a bit overwhelmed with moving in, attending classes, and making new friends. 
