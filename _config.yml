@@ -21,6 +21,7 @@ description: Eric Wang's CS 376 Portfolio
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Group Project Website: "https://hci-sys.github.io/LearningInNature/projectproposal"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
