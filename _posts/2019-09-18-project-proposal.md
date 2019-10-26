@@ -3,7 +3,6 @@ layout: post
 title: Project Proposal 
 subtitle: Berries!
 tags: [project, proposal]
-bigimg: /img/toxicBerries.jpg
 ---
 
 <img src="/img/toxicBerries.jpg" alt="https://ipm.missouri.edu/MEG/2016/8/Beware_of_Toxic_Wild_Berries/" width="726" height="378">
