@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Proposal 
-subtitle: 
+subtitle: Berries!
 tags: [project, proposal]
 ---
 
