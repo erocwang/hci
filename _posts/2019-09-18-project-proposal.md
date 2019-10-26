@@ -3,6 +3,7 @@ layout: post
 title: Project Proposal 
 subtitle: Berries!
 tags: [project, proposal]
+bigimg: /img/Infographic-poisonous-berries-food-fruit-vegetable-garden-forage-7.jpg
 ---
 
 <img src="/img/toxicBerries.jpg" alt="https://ipm.missouri.edu/MEG/2016/8/Beware_of_Toxic_Wild_Berries/" width="726" height="378">
