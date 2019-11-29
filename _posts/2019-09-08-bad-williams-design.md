@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bad Design 
-subtitle: An example of bad design at Williams
+title: <span style="color:#E7DFDD">Bad Design</span>
+subtitle: <span style="color:#E7DFDD">An example of bad design at Williams</span>
 tags: [bad, design]
 ---
 
