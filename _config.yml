@@ -42,10 +42,10 @@ navbar-links:
 navbar-col: "#0E0B16"
 navbar-text-col: "#E7DFDD"
 navbar-children-col: "#000000"
-page-col: "#0E0B16"
+page-col: "#282828"
 link-col: "#4717F6"
 hover-col: "#A239CA"
-footer-col: "#0E0B16"
+footer-col: "#0C0032"
 footer-text-col: "#E7DFDD"
 footer-link-col: "#4717F6"
 
@@ -53,7 +53,7 @@ footer-link-col: "#4717F6"
 # instead of colour
 
 navbar-img: "/img/yeer.gif"
-footer-img: "/img/c9p7mmhmjudz-2.png"
+# footer-img: "/img/c9p7mmhmjudz-2.png"
 # page-img: "/img/c9p7mmhmjudz-2.png"
 
 # --- Footer options --- #
