@@ -42,10 +42,10 @@ navbar-links:
 navbar-col: "#0E0B16"
 navbar-text-col: "#E7DFDD"
 navbar-children-col: "#000000"
-page-col: "#282828"
+page-col: "#1A1A1D"
 link-col: "#4717F6"
 hover-col: "#A239CA"
-footer-col: "#0C0032"
+footer-col: "#FFFFFF"
 footer-text-col: "#E7DFDD"
 footer-link-col: "#4717F6"
 
