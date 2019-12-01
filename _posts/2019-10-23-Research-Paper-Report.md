@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: <span style="color:#E7DFDD">Research Paper Report</span>
 subtitle: <span style="color:#E7DFDD">User requirements for location-based services to support hiking activities</span>
 tags: [research, paper, report]
