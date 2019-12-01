@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: <span style="color:#E7DFDD">Good Design</span> 
 subtitle: <span style="color:#E7DFDD">An example of good design at Williams</span>
 tags: [good, design]
