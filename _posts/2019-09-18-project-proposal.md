@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: <span style="color:#E7DFDD">Project Proposal</span>  
 subtitle: <span style="color:#E7DFDD">Berries!</span>
 tags: [project, proposal]
