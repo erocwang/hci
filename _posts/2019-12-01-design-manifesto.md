@@ -6,7 +6,7 @@ bigimg: /img/rainbow.jpg
 ---
 <span style="color:#E7DFDD">As they say, beauty is in the eye of the beholder.</span> 
 
-<span style="color:#E7DFDD">Or, probably, the eyes of your stakeholders.</span>Or, probably, the eyes of your stakeholders. 
+<span style="color:#E7DFDD">Or, probably, the eyes of your stakeholders.</span> 
 
 <span style="color:#E7DFDD">Anyways, design will always be subjective. And, design components from one project will not necessarily translate to another. But your design philosophy can. </span>
 
