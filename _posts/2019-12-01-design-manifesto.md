@@ -21,13 +21,13 @@ bigimg: /img/rainbow.jpg
 
 <span style="color:#E7DFDD">Every design you make will be motivated by some problem. It's your job to evaluate the severity of the issue and determine if the issue is one you can fix.</span> 
 
-<span style="color:#E7DFDD">My HCI journey began with [my individual project proposal](https://erocwang.github.io/2019-09-18-project-proposal/). The problem I brought up was the inability for people to identify edible, wild berries. However, this problem is very specific, and doesn't have much room to design solutions for. The issue I identified isn't very motivating.  </span>
+<span style="color:#E7DFDD">My HCI journey began with [my individual project proposal](https://erocwang.github.io/2019-09-18-project-proposal/). The problem I brought up was the inability for people to identify edible, wild berries. However, this problem is very specific, and doesn't have much room to design solutions for. Because the low reach/impact of the issue and its lack of novelty, it isn't very motivating.  </span>
 
 <span style="color:#E7DFDD">This proposal was done without much research. If I were to have based my whole project on it, there would not be much to work on (not a complex solution) and the solution itself would not be very impactful. In general, a problem that is broad enough that there is enough room to play with a solution but not too narrow that solution creation is limited is ideal. </span>
 
-<span style="color:#E7DFDD">I've learned my lesson from it, and encourage you not to fall to the same mistakes of picking too specificly.</span> 
+<span style="color:#E7DFDD">I've learned my lesson from it, and encourage you not to fall to the same mistakes of identifying and presenting a problem like this. </span> 
 
-<span style="color:#E7DFDD">Here's a [better proposal](https://hci-sys.github.io/LearningInNature/projectproposal/), from our hikAR group project. </span>
+<span style="color:#E7DFDD">Here's a [better proposal](https://hci-sys.github.io/LearningInNature/projectproposal/), from our hikAR group project. This provides a better problem statement to draw the reader in as well as a more overarching problem theme for us to work on and research. </span>
 
 <span style="color:#E7DFDD">It's also important to note that throughout the project, we were constantly changing and refining our problem statement. Here are some examples as we went along: [hikAR research overview](https://hci-sys.github.io/LearningInNature/uxresearchoverview/) [hikAR design overview](https://hci-sys.github.io/LearningInNature/uxdesignoverview/)</span>
 
@@ -40,9 +40,9 @@ bigimg: /img/rainbow.jpg
 
 <span style="color:#E7DFDD">Some of these methods include contextual inquiries, interview, and surveys. </span>
 
-<span style="color:#E7DFDD">Contextual inquiries and interview are both very hands on, personal ways to retrive user information. Here's a article on [contextual inquirires](https://www.google.com/url?q=https%3A%2F%2Fglow.williams.edu%2Fcourses%2F2539542%2Ffiles%2Ffolder%2Freadings%3Fpreview%3D153992307&sa=D&sntz=1&usg=AFQjCNHzYEhhDiXE8sxOVoX7pjGx5esUDA) and one on [interviews](https://www.google.com/url?q=https%3A%2F%2Fglow.williams.edu%2Fcourses%2F2539542%2Ffiles%2Ffolder%2Freadings%3Fpreview%3D153992376&sa=D&sntz=1&usg=AFQjCNFON6MK4Pl0BkUaQCgVvQ9VyM4hSQ). I'm not going to go into detail about which to primarily use; they are both great and it is up to you to decide.  </span>
+<span style="color:#E7DFDD">Contextual inquiries and interview are both very hands on, personal ways to retrive user information. Here's a article on [contextual inquirires](https://www.google.com/url?q=https%3A%2F%2Fglow.williams.edu%2Fcourses%2F2539542%2Ffiles%2Ffolder%2Freadings%3Fpreview%3D153992307&sa=D&sntz=1&usg=AFQjCNHzYEhhDiXE8sxOVoX7pjGx5esUDA) and one on [interviews](https://www.google.com/url?q=https%3A%2F%2Fglow.williams.edu%2Fcourses%2F2539542%2Ffiles%2Ffolder%2Freadings%3Fpreview%3D153992376&sa=D&sntz=1&usg=AFQjCNFON6MK4Pl0BkUaQCgVvQ9VyM4hSQ). I'm not going to tell you which to primarily use; they are both great and it is up to you to decide.  </span>
 
-<span style="color:#E7DFDD">Because hikAR is based on serving hikers, contextual inquiries were the better choice for us. Hiking is an activity and one where you sort of need to be there to understand it. [More here](https://hci-sys.github.io/LearningInNature/cireview/)</span>
+<span style="color:#E7DFDD">Contextual inquiries involve watching a "master" do some sort of task and asking questions as they do it. So, because hikAR is based on serving hikers, contextual inquiries were the better choice for us. Hiking is an activity and one where you sort of need to be there to understand it. [More here](https://hci-sys.github.io/LearningInNature/cireview/)</span>
 
 <span style="color:#E7DFDD">You can always perform more research. No matter how much you do, there is more information out there that will be beneficial to you. Just remember to have done enough for you to comfortably understand the big picture problem and the users.</span> 
 
@@ -72,6 +72,8 @@ essential in initally demonstrating [our design](https://hci-sys.github.io/Learn
 <span style="color:#E7DFDD">Creative ideas often come from building on existing knowledge.</span>
 
 <span style="color:#E7DFDD">This is where I think you'll have the most fun. Make sure to encourage fruitful brainstorming and ideation. </span>
+
+<span style="color:#E7DFDD">I felt that brainstorming in class was a great way for us to come up with design ideas. [Look here](https://hci-sys.github.io/LearningInNature/design_check-in/) to see our designs we came up with after coming together. </span>
 
 <span style="color:#E7DFDD">Here's a good article on [how to be creative](https://glow.williams.edu/courses/2539542/files/folder/readings?preview=153992346)</span>
 
@@ -108,7 +110,7 @@ essential in initally demonstrating [our design](https://hci-sys.github.io/Learn
 
 <span style="color:#E7DFDD">Of course, accessibility is great for those with disabilities. It allows them to use your design better. In fact, making things more acessible also improves functionality for users who don't necessarily need the added features, but might use them from time to time. </span>
 
-<span style="color:#E7DFDD">Because our project is technically still in a rather initial phase of design (not supporting many tasks) we haven't added many accessibility features to our design. This is one thing I would have liked to change possibily, incorporating the principles of accessibility more predominately throughout the research and design process.</span> 
+<span style="color:#E7DFDD">Because our project is technically still in a rather initial phase of design (not supporting many tasks) we haven't added many accessibility features to our design. We have made and revised our prototype so that it is easier to use, ([look here](https://hci-sys.github.io/LearningInNature/usabilitytestingreview/)), but we could of done much more. This is one thing I would have liked to change possibily, incorporating the principles of accessibility more predominately throughout the research and design process.</span> 
 
 <span style="color:#E7DFDD">Here is a [good document with acessibility do's and dont's](https://www.google.com/url?q=https%3A%2F%2Fglow.williams.edu%2Ffiles%2F153992322%2Fdownload%3Fdownload_frd%3D1&sa=D&sntz=1&usg=AFQjCNGGu6gSbxze0CXtz5BR5Cuf5QV_cw).</span>
 
@@ -120,6 +122,9 @@ essential in initally demonstrating [our design](https://hci-sys.github.io/Learn
 <span style="color:#E7DFDD">It's hard to define what's ethical and what's not, but [here's the closest thing to a guide on what defines ethics in industries](https://www.google.com/url?q=https%3A%2F%2Fethics.acm.org%2F&sa=D&sntz=1&usg=AFQjCNECGQAnVCFWIlPgCbymnie1P8pIMg).</span>
 
 <span style="color:#E7DFDD">It's up to you as designers to uphold ethical integrity before we go on a slippery slope that will lead to even more harm in the future.</span> 
+
+<h1 style="color:#E7DFDD">Final Thoughts</h1> 
+<span style="color:#E7DFDD">Overall, the design process should be fun and exciting. These principles should guide you and streamline the process itself. Remember to really understand the issues and people you are designing for, to design simply and effectively (but still with creative power), and to incorporate good ethics and accessibility features along the way.</span> 
 
 <span style="color:#E7DFDD">Designing a User Experience is often very time consuming and intensive. However, with the right methods and outline, the design process will go fast; it always feels like there is something you can do. It is really cool to see how much you've done. Even in just one semester, I think we've accomplished and learned a lot. 
 </span>
