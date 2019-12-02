@@ -23,9 +23,9 @@ Every design you make will be motivated by some problem. It's your job to evalua
 
 My HCI journey began with [my individual project proposal](https://erocwang.github.io/2019-09-18-project-proposal/). The problem I brought up was the inability for people to identify edible, wild berries. However, this problem is very specific, and doesn't have much room to design solutions for. The issue I identified isn't very motivating.  
 
-This proposal was done without much research. If I were to have based my whole project on it, there would not be much to work on (not a complex solution) and the solution itself would not be very impactful. 
+This proposal was done without much research. If I were to have based my whole project on it, there would not be much to work on (not a complex solution) and the solution itself would not be very impactful. In general, a problem that is broad enough that there is enough room to play with a solution but not too narrow that solution creation is limited is ideal. 
 
-I've learned my lesson from it, and encourage you not to fall to the same mistakes. 
+I've learned my lesson from it, and encourage you not to fall to the same mistakes of picking too specificly. 
 
 Here's a [better proposal](https://hci-sys.github.io/LearningInNature/projectproposal/), from our hikAR group project. 
 
