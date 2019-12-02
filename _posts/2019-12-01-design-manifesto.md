@@ -125,7 +125,6 @@ essential in initally demonstrating [our design](https://hci-sys.github.io/Learn
 
 <h1 style="color:#E7DFDD">Final Thoughts</h1> 
 <span style="color:#E7DFDD">Overall, the design process should be fun and exciting. These principles should guide you and streamline the process itself. Remember to really understand the issues and people you are designing for, to design simply and effectively (but still with creative power), and to incorporate good ethics and accessibility features along the way.</span> 
-
-
+  
 <span style="color:#E7DFDD">Designing a User Experience is often very time consuming and intensive. However, with the right methods and outline, the design process will go fast; it always feels like there is something you can do. It is really cool to see how much you've done. Even in just one semester, I think we've accomplished and learned a lot. 
 </span>
