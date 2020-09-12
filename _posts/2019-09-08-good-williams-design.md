@@ -7,13 +7,13 @@ tags: [good, design]
 
 <span style="color:#E7DFDD">Many college libraries use a similar shelf system like this one in Sawyer:</span> 
 
-![Shelf View 1](/img/gd2.jpeg)
+![Shelf View 1](https://erocwang.github.io/hci/img/gd2.jpeg)
 
 <span style="color:#E7DFDD">These shelves can be moved forward and backward along a straight track. </span>
 
 <span style="color:#E7DFDD">This lets them pack more shelves into smaller spaces.</span> 
 
-![Shelf View 2](/img/gd1.jpeg)
+![Shelf View 2](https://erocwang.github.io/hci/img/gd1.jpeg)
 
 <span style="color:#E7DFDD">The shelf device looks like a "steering-wheel" and it's intuitive to assume that this is the control for moving the shelves.</span> 
 
