@@ -17,13 +17,13 @@ tags: [bad, design]
 
 <span style="color:#E7DFDD">I guess and check. It's a push.</span>
 
-![Door 2](/img/bd2.jpeg)
+![Door 2](https://erocwang.github.io/hci/img/bd2.jpeg)
 
 <span style="color:#E7DFDD">At this point I'm in a bit of a rush, so I attempt to push this door since the last one was a push.</span>
 
 <span style="color:#E7DFDD">This door was a pull.</span>
 
-![Door 3](/img/bd3.jpeg)
+![Door 3](https://erocwang.github.io/hci/img/bd3.jpeg)
 
 <span style="color:#E7DFDD">I'm finally at the last door and use the same logic as before.</span>
 
