@@ -11,19 +11,19 @@ tags: [bad, design]
 
 <span style="color:#E7DFDD">I'm a bit late, but I ask around and I'm told to go down the hall, which had 3 glass doors.</span>
 
-![Door 1](/hci/img/bd1.jpeg)
+![Door 1](/img/bd1.jpeg)
 
 <span style="color:#E7DFDD">I see the first door and it's slightly ambiguous as to whether it's a push or a pull.</span>
 
 <span style="color:#E7DFDD">I guess and check. It's a push.</span>
 
-![Door 2](/hci/img/bd2.jpeg)
+![Door 2](/img/bd2.jpeg)
 
 <span style="color:#E7DFDD">At this point I'm in a bit of a rush, so I attempt to push this door since the last one was a push.</span>
 
 <span style="color:#E7DFDD">This door was a pull.</span>
 
-![Door 3](/hci/img/bd3.jpeg)
+![Door 3](/img/bd3.jpeg)
 
 <span style="color:#E7DFDD">I'm finally at the last door and use the same logic as before.</span>
 
