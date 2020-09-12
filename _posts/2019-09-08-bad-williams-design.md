@@ -11,7 +11,7 @@ tags: [bad, design]
 
 <span style="color:#E7DFDD">I'm a bit late, but I ask around and I'm told to go down the hall, which had 3 glass doors.</span>
 
-![Door 1](/img/bd1.jpeg)
+![Door 1](/erocwang.github.io/hci/img/bd1.jpeg)
 
 <span style="color:#E7DFDD">I see the first door and it's slightly ambiguous as to whether it's a push or a pull.</span>
 
