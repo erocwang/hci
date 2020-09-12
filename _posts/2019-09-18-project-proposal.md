@@ -5,7 +5,7 @@ subtitle: <span style="color:#E7DFDD">Berries!</span>
 tags: [project, proposal]
 ---
 
-<img src="/img/toxicBerries.jpg" alt="https://ipm.missouri.edu/MEG/2016/8/Beware_of_Toxic_Wild_Berries/" width="726" height="378">
+<img src="https://erocwang.github.io/hci/img/toxicBerries.jpg" alt="https://ipm.missouri.edu/MEG/2016/8/Beware_of_Toxic_Wild_Berries/" width="726" height="378">
 
 <h1 style="color:#E7DFDD">Motivation</h1>
 <span style="color:#E7DFDD">There are so many fruits and berries you find while hiking, and even when you're just going for a short walk. Many of them _look_ edible but how do you know that they are not deadly fruits under a delicious disguise? And even if they were edible, would they even taste good? Perhaps you are a boy scout, a park ranger, or just an avid fruit lover, but even then you wouldn't know about _all_ of them.</span>
